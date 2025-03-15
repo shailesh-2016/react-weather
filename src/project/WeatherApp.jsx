@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import InfoBox from "./InfoBox";
-import Boxcomp from "./box";
 import { Container, Typography } from "@mui/material";
 
 const WeatherApp = () => {
